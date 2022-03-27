@@ -1,0 +1,8 @@
+
+===== Đồ án môn học Winform =====
+Giải nén file ra ổ đĩa D
+user 1: thanh123
+Pass 1: 123
+user 1: 111
+Pass 1: 111
+-- Lưu ý: Trước khi đăng nhập, chạy file sql server, sau đó đổi data source = máy chủ mới 
